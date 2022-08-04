@@ -1,1 +1,38 @@
 /* write your override styles here */
+
+body {
+    display: none;
+}
+
+div#wall {
+    display: none;
+}
+
+.tag-1 {
+    display: none;
+}
+
+
+div#tag-2 {
+    display: none;
+}
+
+iv#tag-3 {
+    display: none;
+}
+
+.parent {
+    display: none;
+}
+
+.parent {
+    display: none;
+}
+
+.parent {
+    display: none;
+}
+
+.parent {
+    display: none;
+}
